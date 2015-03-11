@@ -18,7 +18,7 @@ class @CCOAppBar extends Layer
 		else
 			statusBarImage = 'images/CCOAppBar/StatusBar-White.png'
 
-		@width = options.width || Framer.Device.screen.width
+		@width = Framer.Device.screen.width
 		@height = constants.app_bar_height
 		@backgroundColor = options.backgroundColor
 

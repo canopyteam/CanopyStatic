@@ -17,8 +17,6 @@ appContent = new Layer
 	backgroundColor: "white"
 	width: Framer.Device.screen.width
 	height: Framer.Device.screen.height
-	x: 0
-	y: 0
 
 appBar = new CCOAppBar.CCOAppBar
 	backgroundColor: color.canopy_green
@@ -30,7 +28,7 @@ scrollView = new CCOScrollView.CCODraggableScrollView
 	height: Framer.Device.screen.height
 	width: Framer.Device.screen.width
 	y: appBar.height - 2
-	contentHeight: streamLayers.stream.height - 2 + appBar.height - 300
+	contentHeight: streamLayers.stream.height - 2 + appBar.height - 284
 	backgroundColor: 'white'
 	vertical: true
 
