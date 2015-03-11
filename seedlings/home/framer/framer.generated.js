@@ -896,7 +896,7 @@ window.__imported__["stream/layers.json.js"] = [
             "image" : {
               "path" : "images\/Rectangle_33__Rectangle_34-4AA00CB3-DD29-4C11-BF42-F4F1DCC58F4C.png",
               "frame" : {
-                "y" : 2535,
+                "y" : 2515,
                 "x" : 34,
                 "width" : 25,
                 "height" : 25
@@ -904,7 +904,7 @@ window.__imported__["stream/layers.json.js"] = [
             },
             "imageType" : "png",
             "layerFrame" : {
-              "y" : 2535,
+              "y" : 2515,
               "x" : 34,
               "width" : 25,
               "height" : 25
@@ -915,7 +915,7 @@ window.__imported__["stream/layers.json.js"] = [
         "image" : {
           "path" : "images\/Rectangle_33__Rectangle_34__Shop-FC07F7F4-7685-4318-856C-85773CFB875B.png",
           "frame" : {
-            "y" : 2532,
+            "y" : 2512,
             "x" : 34,
             "width" : 51,
             "height" : 31
@@ -923,7 +923,7 @@ window.__imported__["stream/layers.json.js"] = [
         },
         "imageType" : "png",
         "layerFrame" : {
-          "y" : 2532,
+          "y" : 2512,
           "x" : 34,
           "width" : 51,
           "height" : 31
@@ -1708,7 +1708,7 @@ window.__imported__["stream/layers.json.js"] = [
         "image" : {
           "path" : "images\/Added_to_Camping__Shop-311BABC8-25AA-425C-B867-09C21F66CF07.png",
           "frame" : {
-            "y" : 2534,
+            "y" : 2514,
             "x" : 103,
             "width" : 260,
             "height" : 33
@@ -1716,7 +1716,7 @@ window.__imported__["stream/layers.json.js"] = [
         },
         "imageType" : "png",
         "layerFrame" : {
-          "y" : 2534,
+          "y" : 2514,
           "x" : 103,
           "width" : 260,
           "height" : 33
