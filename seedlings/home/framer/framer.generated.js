@@ -731,7 +731,7 @@ window.__imported__["stream/layers.json.js"] = [
               "path" : "images\/Amazon_2-D53991F8-DF18-4EC3-8FD5-9E94E500A9FD.png",
               "frame" : {
                 "y" : 3242,
-                "x" : 558,
+                "x" : 557,
                 "width" : 39,
                 "height" : 29
               }
@@ -739,7 +739,7 @@ window.__imported__["stream/layers.json.js"] = [
             "imageType" : "png",
             "layerFrame" : {
               "y" : 3242,
-              "x" : 558,
+              "x" : 557,
               "width" : 39,
               "height" : 29
             },
@@ -750,7 +750,7 @@ window.__imported__["stream/layers.json.js"] = [
           "path" : "images\/$150__Amazon_2__Rectangle_440-0D3A03B8-D29A-4B1C-8F56-31863DC04326.png",
           "frame" : {
             "y" : 3219,
-            "x" : 412,
+            "x" : 411,
             "width" : 217,
             "height" : 76
           }
@@ -758,7 +758,7 @@ window.__imported__["stream/layers.json.js"] = [
         "imageType" : "png",
         "layerFrame" : {
           "y" : 3219,
-          "x" : 412,
+          "x" : 411,
           "width" : 217,
           "height" : 76
         },
@@ -951,7 +951,7 @@ window.__imported__["stream/layers.json.js"] = [
               "path" : "images\/Amazon_2-40B090A9-06AE-419C-8976-AFCAF4079A2D.png",
               "frame" : {
                 "y" : 4047,
-                "x" : 557,
+                "x" : 556,
                 "width" : 39,
                 "height" : 29
               }
@@ -959,7 +959,7 @@ window.__imported__["stream/layers.json.js"] = [
             "imageType" : "png",
             "layerFrame" : {
               "y" : 4047,
-              "x" : 557,
+              "x" : 556,
               "width" : 39,
               "height" : 29
             },
@@ -970,7 +970,7 @@ window.__imported__["stream/layers.json.js"] = [
           "path" : "images\/$150__Amazon_2__Rectangle_439-5D111945-13CE-4EC4-8809-0DAA7C4005A1.png",
           "frame" : {
             "y" : 4024,
-            "x" : 431,
+            "x" : 430,
             "width" : 194,
             "height" : 76
           }
@@ -978,7 +978,7 @@ window.__imported__["stream/layers.json.js"] = [
         "imageType" : "png",
         "layerFrame" : {
           "y" : 4024,
-          "x" : 431,
+          "x" : 430,
           "width" : 194,
           "height" : 76
         },
@@ -1000,7 +1000,7 @@ window.__imported__["stream/layers.json.js"] = [
               "path" : "images\/Amazon_2-882205AD-0651-4AB1-930F-62D1CC3C8FA8.png",
               "frame" : {
                 "y" : 2360,
-                "x" : 557,
+                "x" : 556,
                 "width" : 39,
                 "height" : 29
               }
@@ -1008,7 +1008,7 @@ window.__imported__["stream/layers.json.js"] = [
             "imageType" : "png",
             "layerFrame" : {
               "y" : 2360,
-              "x" : 557,
+              "x" : 556,
               "width" : 39,
               "height" : 29
             },
@@ -1019,7 +1019,7 @@ window.__imported__["stream/layers.json.js"] = [
           "path" : "images\/$150__Amazon_2__Rectangle_439-2EE0FA7B-4171-47D9-B061-52F9E4D285FD.png",
           "frame" : {
             "y" : 2337,
-            "x" : 431,
+            "x" : 430,
             "width" : 194,
             "height" : 76
           }
@@ -1027,7 +1027,7 @@ window.__imported__["stream/layers.json.js"] = [
         "imageType" : "png",
         "layerFrame" : {
           "y" : 2337,
-          "x" : 431,
+          "x" : 430,
           "width" : 194,
           "height" : 76
         },
