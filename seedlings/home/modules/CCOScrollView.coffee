@@ -31,6 +31,9 @@ class @CCODraggableScrollView extends Layer
       height: @contentHeight
     @content.draggable.Enabled = true
 
+    @content.clip = options.clipContent || false
+    @content.force2d = true
+
     @content.on Events.DragStart, @dragStart
     @content.on Events.DragMove, @dragMove
     @content.on Events.DragEnd, @dragEnd
@@ -62,7 +65,6 @@ class @CCODraggableScrollView extends Layer
       @content.draggable.speedY = 0
 
   dragEnd: (e, layer) =>
-    console.log 'super dragEnd'
     velocity = layer.draggable.calculateVelocity()
     if Math.abs(velocity.x) < .1 && Math.abs(velocity.y) < .1
       x = Math.clamp(layer.x, @xMin, 0)
