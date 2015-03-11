@@ -4,11 +4,13 @@ streamLayers = Framer.Importer.load "imported/stream"
 CCOAppBar = require "CCOAppBar"
 CCOStylesheet = require "CCOStylesheet"
 CCOScrollView = require "CCOScrollView"
+shortcuts = require "FBShortcuts"
 
 europa = new CCOStylesheet.CCOStylesheet 'css/europa.css'
 
 color =
 	canopy_green: '#23DEBF'
+	canopy_dark: '#20262A'
 	background: '#f2f2f2'
 	gray_light: '#ccc'
 	gray_middle: '#525252'
@@ -23,7 +25,14 @@ appBar = new CCOAppBar.CCOAppBar
 	statusBarTextColor: "white"
 	fontFamily: 'Europa, Helvetica'
 	viewName: 'Home'
-	
+
+appBar.states.add
+	green: {backgroundColor: color.canopy_green}
+	dark: {backgroundColor: color.canopy_dark}
+
+appBar.tap () ->
+	appBar.states.next("green", "dark")
+
 scrollView = new CCOScrollView.CCODraggableScrollView
 	height: Framer.Device.screen.height
 	width: Framer.Device.screen.width
